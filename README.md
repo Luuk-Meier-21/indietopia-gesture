@@ -1,1 +1,3 @@
-# indietopia-gesture
+# Indietopia gesture
+
+- [ ] add meaningfull readme
